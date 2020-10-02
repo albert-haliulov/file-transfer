@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T10:22:51.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" version="13.7.7" etag="-YCH8IGKYnwifbkraLge" type="github"><diagram id="LpCAREcPi8zX7_zTzKkB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-02T10:27:11.294Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="TXum5CfJgkZ3zQR_H47R" version="13.7.7" type="github">
+  <diagram id="LpCAREcPi8zX7_zTzKkB" name="Page-1">
+    <mxGraphModel dx="946" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tEA7TO6IwM64gKAjC2-P-1" value="Внешние клиентские&lt;br&gt;&amp;nbsp;и партнерские организации" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="55" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tEA7TO6IwM64gKAjC2-P-2" value="Удаленные офисы&lt;br&gt;&amp;nbsp;и отделения" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tEA7TO6IwM64gKAjC2-P-3" value="DMZ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tEA7TO6IwM64gKAjC2-P-4" value="Контур головной организации" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="50" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tEA7TO6IwM64gKAjC2-P-5" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="450" as="sourcePoint" />
+            <mxPoint x="240" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tEA7TO6IwM64gKAjC2-P-6" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="445" as="sourcePoint" />
+            <mxPoint x="480" y="25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
